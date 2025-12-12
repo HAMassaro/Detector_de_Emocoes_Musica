@@ -27,8 +27,6 @@ Antes de usar o classificador, é necessário treinar a IA para que ela aprenda 
 
 Digite no terminal: `python treinamento_sklearn.py`
 
-Acesse: http://127.0.0.1:5000
-
 ## 4. Como usar
 
 Após o treinamento, você pode classificar qualquer música:
